@@ -1,7 +1,7 @@
-# package_name
+# Resizing Image
 
 Description. 
-The package package_name is used to:
+The package resizing_image is used to:
 	Processing:
 		- Load Image
 		- Resize Image
